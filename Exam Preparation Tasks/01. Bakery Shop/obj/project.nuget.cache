@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "koOTAB+3NXRYkIDc3Zg2Oo5zwDoyNTGSunoPu2e92CLj5dgNEDWgXbXGkwcD0aQ7MZviX1a37RXodkbIz14Gsw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\usr\\source\\repos\\ExamPreparation\\01. Bakery Shop\\01. Bakery Shop.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\usr\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\usr\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\usr\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
+    "C:\\Users\\usr\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}

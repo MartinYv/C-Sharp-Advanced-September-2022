@@ -1,0 +1,16 @@
+C:\Users\usr\source\repos\Stack and Queues\Exersice 4. Fast Food\bin\Debug\net5.0\Exersice 4. Fast Food.exe
+C:\Users\usr\source\repos\Stack and Queues\Exersice 4. Fast Food\bin\Debug\net5.0\Exersice 4. Fast Food.deps.json
+C:\Users\usr\source\repos\Stack and Queues\Exersice 4. Fast Food\bin\Debug\net5.0\Exersice 4. Fast Food.runtimeconfig.json
+C:\Users\usr\source\repos\Stack and Queues\Exersice 4. Fast Food\bin\Debug\net5.0\Exersice 4. Fast Food.runtimeconfig.dev.json
+C:\Users\usr\source\repos\Stack and Queues\Exersice 4. Fast Food\bin\Debug\net5.0\Exersice 4. Fast Food.dll
+C:\Users\usr\source\repos\Stack and Queues\Exersice 4. Fast Food\bin\Debug\net5.0\ref\Exersice 4. Fast Food.dll
+C:\Users\usr\source\repos\Stack and Queues\Exersice 4. Fast Food\bin\Debug\net5.0\Exersice 4. Fast Food.pdb
+C:\Users\usr\source\repos\Stack and Queues\Exersice 4. Fast Food\obj\Debug\net5.0\Exersice 4. Fast Food.csproj.AssemblyReference.cache
+C:\Users\usr\source\repos\Stack and Queues\Exersice 4. Fast Food\obj\Debug\net5.0\Exersice 4. Fast Food.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usr\source\repos\Stack and Queues\Exersice 4. Fast Food\obj\Debug\net5.0\Exersice 4. Fast Food.AssemblyInfoInputs.cache
+C:\Users\usr\source\repos\Stack and Queues\Exersice 4. Fast Food\obj\Debug\net5.0\Exersice 4. Fast Food.AssemblyInfo.cs
+C:\Users\usr\source\repos\Stack and Queues\Exersice 4. Fast Food\obj\Debug\net5.0\Exersice 4. Fast Food.csproj.CoreCompileInputs.cache
+C:\Users\usr\source\repos\Stack and Queues\Exersice 4. Fast Food\obj\Debug\net5.0\Exersice 4. Fast Food.dll
+C:\Users\usr\source\repos\Stack and Queues\Exersice 4. Fast Food\obj\Debug\net5.0\ref\Exersice 4. Fast Food.dll
+C:\Users\usr\source\repos\Stack and Queues\Exersice 4. Fast Food\obj\Debug\net5.0\Exersice 4. Fast Food.pdb
+C:\Users\usr\source\repos\Stack and Queues\Exersice 4. Fast Food\obj\Debug\net5.0\Exersice 4. Fast Food.genruntimeconfig.cache

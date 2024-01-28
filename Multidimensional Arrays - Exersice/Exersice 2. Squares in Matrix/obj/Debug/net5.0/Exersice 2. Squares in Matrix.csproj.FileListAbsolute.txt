@@ -1,0 +1,15 @@
+C:\Users\usr\source\repos\Multidimentional Arrays 2\Exersice 2. Squares in Matrix\bin\Debug\net5.0\Exersice 2. Squares in Matrix.exe
+C:\Users\usr\source\repos\Multidimentional Arrays 2\Exersice 2. Squares in Matrix\bin\Debug\net5.0\Exersice 2. Squares in Matrix.deps.json
+C:\Users\usr\source\repos\Multidimentional Arrays 2\Exersice 2. Squares in Matrix\bin\Debug\net5.0\Exersice 2. Squares in Matrix.runtimeconfig.json
+C:\Users\usr\source\repos\Multidimentional Arrays 2\Exersice 2. Squares in Matrix\bin\Debug\net5.0\Exersice 2. Squares in Matrix.runtimeconfig.dev.json
+C:\Users\usr\source\repos\Multidimentional Arrays 2\Exersice 2. Squares in Matrix\bin\Debug\net5.0\Exersice 2. Squares in Matrix.dll
+C:\Users\usr\source\repos\Multidimentional Arrays 2\Exersice 2. Squares in Matrix\bin\Debug\net5.0\ref\Exersice 2. Squares in Matrix.dll
+C:\Users\usr\source\repos\Multidimentional Arrays 2\Exersice 2. Squares in Matrix\bin\Debug\net5.0\Exersice 2. Squares in Matrix.pdb
+C:\Users\usr\source\repos\Multidimentional Arrays 2\Exersice 2. Squares in Matrix\obj\Debug\net5.0\Exersice 2. Squares in Matrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usr\source\repos\Multidimentional Arrays 2\Exersice 2. Squares in Matrix\obj\Debug\net5.0\Exersice 2. Squares in Matrix.AssemblyInfoInputs.cache
+C:\Users\usr\source\repos\Multidimentional Arrays 2\Exersice 2. Squares in Matrix\obj\Debug\net5.0\Exersice 2. Squares in Matrix.AssemblyInfo.cs
+C:\Users\usr\source\repos\Multidimentional Arrays 2\Exersice 2. Squares in Matrix\obj\Debug\net5.0\Exersice 2. Squares in Matrix.csproj.CoreCompileInputs.cache
+C:\Users\usr\source\repos\Multidimentional Arrays 2\Exersice 2. Squares in Matrix\obj\Debug\net5.0\Exersice 2. Squares in Matrix.dll
+C:\Users\usr\source\repos\Multidimentional Arrays 2\Exersice 2. Squares in Matrix\obj\Debug\net5.0\ref\Exersice 2. Squares in Matrix.dll
+C:\Users\usr\source\repos\Multidimentional Arrays 2\Exersice 2. Squares in Matrix\obj\Debug\net5.0\Exersice 2. Squares in Matrix.pdb
+C:\Users\usr\source\repos\Multidimentional Arrays 2\Exersice 2. Squares in Matrix\obj\Debug\net5.0\Exersice 2. Squares in Matrix.genruntimeconfig.cache

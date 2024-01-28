@@ -1,0 +1,14 @@
+C:\Users\usr\source\repos\Multidimentional Arrays 2\Exersice 8. Bombs\bin\Debug\netcoreapp3.1\Exersice 8. Bombs.exe
+C:\Users\usr\source\repos\Multidimentional Arrays 2\Exersice 8. Bombs\bin\Debug\netcoreapp3.1\Exersice 8. Bombs.deps.json
+C:\Users\usr\source\repos\Multidimentional Arrays 2\Exersice 8. Bombs\bin\Debug\netcoreapp3.1\Exersice 8. Bombs.runtimeconfig.json
+C:\Users\usr\source\repos\Multidimentional Arrays 2\Exersice 8. Bombs\bin\Debug\netcoreapp3.1\Exersice 8. Bombs.runtimeconfig.dev.json
+C:\Users\usr\source\repos\Multidimentional Arrays 2\Exersice 8. Bombs\bin\Debug\netcoreapp3.1\Exersice 8. Bombs.dll
+C:\Users\usr\source\repos\Multidimentional Arrays 2\Exersice 8. Bombs\bin\Debug\netcoreapp3.1\Exersice 8. Bombs.pdb
+C:\Users\usr\source\repos\Multidimentional Arrays 2\Exersice 8. Bombs\obj\Debug\netcoreapp3.1\Exersice 8. Bombs.csproj.AssemblyReference.cache
+C:\Users\usr\source\repos\Multidimentional Arrays 2\Exersice 8. Bombs\obj\Debug\netcoreapp3.1\Exersice 8. Bombs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usr\source\repos\Multidimentional Arrays 2\Exersice 8. Bombs\obj\Debug\netcoreapp3.1\Exersice 8. Bombs.AssemblyInfoInputs.cache
+C:\Users\usr\source\repos\Multidimentional Arrays 2\Exersice 8. Bombs\obj\Debug\netcoreapp3.1\Exersice 8. Bombs.AssemblyInfo.cs
+C:\Users\usr\source\repos\Multidimentional Arrays 2\Exersice 8. Bombs\obj\Debug\netcoreapp3.1\Exersice 8. Bombs.csproj.CoreCompileInputs.cache
+C:\Users\usr\source\repos\Multidimentional Arrays 2\Exersice 8. Bombs\obj\Debug\netcoreapp3.1\Exersice 8. Bombs.dll
+C:\Users\usr\source\repos\Multidimentional Arrays 2\Exersice 8. Bombs\obj\Debug\netcoreapp3.1\Exersice 8. Bombs.pdb
+C:\Users\usr\source\repos\Multidimentional Arrays 2\Exersice 8. Bombs\obj\Debug\netcoreapp3.1\Exersice 8. Bombs.genruntimeconfig.cache

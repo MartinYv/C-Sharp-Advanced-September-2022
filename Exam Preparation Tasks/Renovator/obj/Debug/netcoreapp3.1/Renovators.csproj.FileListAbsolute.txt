@@ -1,0 +1,14 @@
+C:\Users\usr\source\repos\Renovator\bin\Debug\netcoreapp3.1\Renovators.exe
+C:\Users\usr\source\repos\Renovator\bin\Debug\netcoreapp3.1\Renovators.deps.json
+C:\Users\usr\source\repos\Renovator\bin\Debug\netcoreapp3.1\Renovators.runtimeconfig.json
+C:\Users\usr\source\repos\Renovator\bin\Debug\netcoreapp3.1\Renovators.runtimeconfig.dev.json
+C:\Users\usr\source\repos\Renovator\bin\Debug\netcoreapp3.1\Renovators.dll
+C:\Users\usr\source\repos\Renovator\bin\Debug\netcoreapp3.1\Renovators.pdb
+C:\Users\usr\source\repos\Renovator\obj\Debug\netcoreapp3.1\Renovators.csproj.AssemblyReference.cache
+C:\Users\usr\source\repos\Renovator\obj\Debug\netcoreapp3.1\Renovators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usr\source\repos\Renovator\obj\Debug\netcoreapp3.1\Renovators.AssemblyInfoInputs.cache
+C:\Users\usr\source\repos\Renovator\obj\Debug\netcoreapp3.1\Renovators.AssemblyInfo.cs
+C:\Users\usr\source\repos\Renovator\obj\Debug\netcoreapp3.1\Renovators.csproj.CoreCompileInputs.cache
+C:\Users\usr\source\repos\Renovator\obj\Debug\netcoreapp3.1\Renovators.dll
+C:\Users\usr\source\repos\Renovator\obj\Debug\netcoreapp3.1\Renovators.pdb
+C:\Users\usr\source\repos\Renovator\obj\Debug\netcoreapp3.1\Renovators.genruntimeconfig.cache

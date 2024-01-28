@@ -1,0 +1,16 @@
+C:\Users\usr\source\repos\1. Sum Matrix Elements\4. Symbol in Matrix\bin\Debug\net5.0\4. Symbol in Matrix.exe
+C:\Users\usr\source\repos\1. Sum Matrix Elements\4. Symbol in Matrix\bin\Debug\net5.0\4. Symbol in Matrix.deps.json
+C:\Users\usr\source\repos\1. Sum Matrix Elements\4. Symbol in Matrix\bin\Debug\net5.0\4. Symbol in Matrix.runtimeconfig.json
+C:\Users\usr\source\repos\1. Sum Matrix Elements\4. Symbol in Matrix\bin\Debug\net5.0\4. Symbol in Matrix.runtimeconfig.dev.json
+C:\Users\usr\source\repos\1. Sum Matrix Elements\4. Symbol in Matrix\bin\Debug\net5.0\4. Symbol in Matrix.dll
+C:\Users\usr\source\repos\1. Sum Matrix Elements\4. Symbol in Matrix\bin\Debug\net5.0\ref\4. Symbol in Matrix.dll
+C:\Users\usr\source\repos\1. Sum Matrix Elements\4. Symbol in Matrix\bin\Debug\net5.0\4. Symbol in Matrix.pdb
+C:\Users\usr\source\repos\1. Sum Matrix Elements\4. Symbol in Matrix\obj\Debug\net5.0\4. Symbol in Matrix.csproj.AssemblyReference.cache
+C:\Users\usr\source\repos\1. Sum Matrix Elements\4. Symbol in Matrix\obj\Debug\net5.0\4. Symbol in Matrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usr\source\repos\1. Sum Matrix Elements\4. Symbol in Matrix\obj\Debug\net5.0\4. Symbol in Matrix.AssemblyInfoInputs.cache
+C:\Users\usr\source\repos\1. Sum Matrix Elements\4. Symbol in Matrix\obj\Debug\net5.0\4. Symbol in Matrix.AssemblyInfo.cs
+C:\Users\usr\source\repos\1. Sum Matrix Elements\4. Symbol in Matrix\obj\Debug\net5.0\4. Symbol in Matrix.csproj.CoreCompileInputs.cache
+C:\Users\usr\source\repos\1. Sum Matrix Elements\4. Symbol in Matrix\obj\Debug\net5.0\4. Symbol in Matrix.dll
+C:\Users\usr\source\repos\1. Sum Matrix Elements\4. Symbol in Matrix\obj\Debug\net5.0\ref\4. Symbol in Matrix.dll
+C:\Users\usr\source\repos\1. Sum Matrix Elements\4. Symbol in Matrix\obj\Debug\net5.0\4. Symbol in Matrix.pdb
+C:\Users\usr\source\repos\1. Sum Matrix Elements\4. Symbol in Matrix\obj\Debug\net5.0\4. Symbol in Matrix.genruntimeconfig.cache

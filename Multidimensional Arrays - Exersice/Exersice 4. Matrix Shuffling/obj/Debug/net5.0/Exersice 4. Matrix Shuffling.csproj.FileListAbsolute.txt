@@ -1,0 +1,16 @@
+C:\Users\usr\source\repos\Multidimentional Arrays 2\Exersice 4. Matrix Shuffling\bin\Debug\net5.0\Exersice 4. Matrix Shuffling.exe
+C:\Users\usr\source\repos\Multidimentional Arrays 2\Exersice 4. Matrix Shuffling\bin\Debug\net5.0\Exersice 4. Matrix Shuffling.deps.json
+C:\Users\usr\source\repos\Multidimentional Arrays 2\Exersice 4. Matrix Shuffling\bin\Debug\net5.0\Exersice 4. Matrix Shuffling.runtimeconfig.json
+C:\Users\usr\source\repos\Multidimentional Arrays 2\Exersice 4. Matrix Shuffling\bin\Debug\net5.0\Exersice 4. Matrix Shuffling.runtimeconfig.dev.json
+C:\Users\usr\source\repos\Multidimentional Arrays 2\Exersice 4. Matrix Shuffling\bin\Debug\net5.0\Exersice 4. Matrix Shuffling.dll
+C:\Users\usr\source\repos\Multidimentional Arrays 2\Exersice 4. Matrix Shuffling\bin\Debug\net5.0\ref\Exersice 4. Matrix Shuffling.dll
+C:\Users\usr\source\repos\Multidimentional Arrays 2\Exersice 4. Matrix Shuffling\bin\Debug\net5.0\Exersice 4. Matrix Shuffling.pdb
+C:\Users\usr\source\repos\Multidimentional Arrays 2\Exersice 4. Matrix Shuffling\obj\Debug\net5.0\Exersice 4. Matrix Shuffling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usr\source\repos\Multidimentional Arrays 2\Exersice 4. Matrix Shuffling\obj\Debug\net5.0\Exersice 4. Matrix Shuffling.AssemblyInfoInputs.cache
+C:\Users\usr\source\repos\Multidimentional Arrays 2\Exersice 4. Matrix Shuffling\obj\Debug\net5.0\Exersice 4. Matrix Shuffling.AssemblyInfo.cs
+C:\Users\usr\source\repos\Multidimentional Arrays 2\Exersice 4. Matrix Shuffling\obj\Debug\net5.0\Exersice 4. Matrix Shuffling.csproj.CoreCompileInputs.cache
+C:\Users\usr\source\repos\Multidimentional Arrays 2\Exersice 4. Matrix Shuffling\obj\Debug\net5.0\Exersice 4. Matrix Shuffling.dll
+C:\Users\usr\source\repos\Multidimentional Arrays 2\Exersice 4. Matrix Shuffling\obj\Debug\net5.0\ref\Exersice 4. Matrix Shuffling.dll
+C:\Users\usr\source\repos\Multidimentional Arrays 2\Exersice 4. Matrix Shuffling\obj\Debug\net5.0\Exersice 4. Matrix Shuffling.pdb
+C:\Users\usr\source\repos\Multidimentional Arrays 2\Exersice 4. Matrix Shuffling\obj\Debug\net5.0\Exersice 4. Matrix Shuffling.genruntimeconfig.cache
+C:\Users\usr\source\repos\Multidimentional Arrays 2\Exersice 4. Matrix Shuffling\obj\Debug\net5.0\Exersice 4. Matrix Shuffling.csproj.AssemblyReference.cache

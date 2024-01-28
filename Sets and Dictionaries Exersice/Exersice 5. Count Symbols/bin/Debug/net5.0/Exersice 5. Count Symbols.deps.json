@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Exersice 5. Count Symbols/1.0.0": {
+        "runtime": {
+          "Exersice 5. Count Symbols.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Exersice 5. Count Symbols/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

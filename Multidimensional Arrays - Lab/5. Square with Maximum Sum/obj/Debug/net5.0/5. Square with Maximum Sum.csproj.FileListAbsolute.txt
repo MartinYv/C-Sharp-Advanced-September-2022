@@ -1,0 +1,16 @@
+C:\Users\usr\source\repos\1. Sum Matrix Elements\5. Square with Maximum Sum\bin\Debug\net5.0\5. Square with Maximum Sum.exe
+C:\Users\usr\source\repos\1. Sum Matrix Elements\5. Square with Maximum Sum\bin\Debug\net5.0\5. Square with Maximum Sum.deps.json
+C:\Users\usr\source\repos\1. Sum Matrix Elements\5. Square with Maximum Sum\bin\Debug\net5.0\5. Square with Maximum Sum.runtimeconfig.json
+C:\Users\usr\source\repos\1. Sum Matrix Elements\5. Square with Maximum Sum\bin\Debug\net5.0\5. Square with Maximum Sum.runtimeconfig.dev.json
+C:\Users\usr\source\repos\1. Sum Matrix Elements\5. Square with Maximum Sum\bin\Debug\net5.0\5. Square with Maximum Sum.dll
+C:\Users\usr\source\repos\1. Sum Matrix Elements\5. Square with Maximum Sum\bin\Debug\net5.0\ref\5. Square with Maximum Sum.dll
+C:\Users\usr\source\repos\1. Sum Matrix Elements\5. Square with Maximum Sum\bin\Debug\net5.0\5. Square with Maximum Sum.pdb
+C:\Users\usr\source\repos\1. Sum Matrix Elements\5. Square with Maximum Sum\obj\Debug\net5.0\5. Square with Maximum Sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usr\source\repos\1. Sum Matrix Elements\5. Square with Maximum Sum\obj\Debug\net5.0\5. Square with Maximum Sum.AssemblyInfoInputs.cache
+C:\Users\usr\source\repos\1. Sum Matrix Elements\5. Square with Maximum Sum\obj\Debug\net5.0\5. Square with Maximum Sum.AssemblyInfo.cs
+C:\Users\usr\source\repos\1. Sum Matrix Elements\5. Square with Maximum Sum\obj\Debug\net5.0\5. Square with Maximum Sum.csproj.CoreCompileInputs.cache
+C:\Users\usr\source\repos\1. Sum Matrix Elements\5. Square with Maximum Sum\obj\Debug\net5.0\5. Square with Maximum Sum.dll
+C:\Users\usr\source\repos\1. Sum Matrix Elements\5. Square with Maximum Sum\obj\Debug\net5.0\ref\5. Square with Maximum Sum.dll
+C:\Users\usr\source\repos\1. Sum Matrix Elements\5. Square with Maximum Sum\obj\Debug\net5.0\5. Square with Maximum Sum.pdb
+C:\Users\usr\source\repos\1. Sum Matrix Elements\5. Square with Maximum Sum\obj\Debug\net5.0\5. Square with Maximum Sum.genruntimeconfig.cache
+C:\Users\usr\source\repos\1. Sum Matrix Elements\5. Square with Maximum Sum\obj\Debug\net5.0\5. Square with Maximum Sum.csproj.AssemblyReference.cache

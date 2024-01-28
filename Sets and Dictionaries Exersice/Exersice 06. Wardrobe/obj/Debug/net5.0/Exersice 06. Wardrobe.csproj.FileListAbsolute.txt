@@ -1,0 +1,16 @@
+C:\Users\usr\source\repos\Sets and Dictionaries Advanced\Exersice 06. Wardrobe\bin\Debug\net5.0\Exersice 06. Wardrobe.exe
+C:\Users\usr\source\repos\Sets and Dictionaries Advanced\Exersice 06. Wardrobe\bin\Debug\net5.0\Exersice 06. Wardrobe.deps.json
+C:\Users\usr\source\repos\Sets and Dictionaries Advanced\Exersice 06. Wardrobe\bin\Debug\net5.0\Exersice 06. Wardrobe.runtimeconfig.json
+C:\Users\usr\source\repos\Sets and Dictionaries Advanced\Exersice 06. Wardrobe\bin\Debug\net5.0\Exersice 06. Wardrobe.runtimeconfig.dev.json
+C:\Users\usr\source\repos\Sets and Dictionaries Advanced\Exersice 06. Wardrobe\bin\Debug\net5.0\Exersice 06. Wardrobe.dll
+C:\Users\usr\source\repos\Sets and Dictionaries Advanced\Exersice 06. Wardrobe\bin\Debug\net5.0\ref\Exersice 06. Wardrobe.dll
+C:\Users\usr\source\repos\Sets and Dictionaries Advanced\Exersice 06. Wardrobe\bin\Debug\net5.0\Exersice 06. Wardrobe.pdb
+C:\Users\usr\source\repos\Sets and Dictionaries Advanced\Exersice 06. Wardrobe\obj\Debug\net5.0\Exersice 06. Wardrobe.csproj.AssemblyReference.cache
+C:\Users\usr\source\repos\Sets and Dictionaries Advanced\Exersice 06. Wardrobe\obj\Debug\net5.0\Exersice 06. Wardrobe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usr\source\repos\Sets and Dictionaries Advanced\Exersice 06. Wardrobe\obj\Debug\net5.0\Exersice 06. Wardrobe.AssemblyInfoInputs.cache
+C:\Users\usr\source\repos\Sets and Dictionaries Advanced\Exersice 06. Wardrobe\obj\Debug\net5.0\Exersice 06. Wardrobe.AssemblyInfo.cs
+C:\Users\usr\source\repos\Sets and Dictionaries Advanced\Exersice 06. Wardrobe\obj\Debug\net5.0\Exersice 06. Wardrobe.csproj.CoreCompileInputs.cache
+C:\Users\usr\source\repos\Sets and Dictionaries Advanced\Exersice 06. Wardrobe\obj\Debug\net5.0\Exersice 06. Wardrobe.dll
+C:\Users\usr\source\repos\Sets and Dictionaries Advanced\Exersice 06. Wardrobe\obj\Debug\net5.0\ref\Exersice 06. Wardrobe.dll
+C:\Users\usr\source\repos\Sets and Dictionaries Advanced\Exersice 06. Wardrobe\obj\Debug\net5.0\Exersice 06. Wardrobe.pdb
+C:\Users\usr\source\repos\Sets and Dictionaries Advanced\Exersice 06. Wardrobe\obj\Debug\net5.0\Exersice 06. Wardrobe.genruntimeconfig.cache

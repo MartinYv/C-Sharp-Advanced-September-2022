@@ -1,0 +1,15 @@
+C:\Users\usr\source\repos\Stack and Queues\Exersice 2. Basic Queue Operations\bin\Debug\net5.0\Exersice 2. Basic Queue Operations.exe
+C:\Users\usr\source\repos\Stack and Queues\Exersice 2. Basic Queue Operations\bin\Debug\net5.0\Exersice 2. Basic Queue Operations.deps.json
+C:\Users\usr\source\repos\Stack and Queues\Exersice 2. Basic Queue Operations\bin\Debug\net5.0\Exersice 2. Basic Queue Operations.runtimeconfig.json
+C:\Users\usr\source\repos\Stack and Queues\Exersice 2. Basic Queue Operations\bin\Debug\net5.0\Exersice 2. Basic Queue Operations.runtimeconfig.dev.json
+C:\Users\usr\source\repos\Stack and Queues\Exersice 2. Basic Queue Operations\bin\Debug\net5.0\Exersice 2. Basic Queue Operations.dll
+C:\Users\usr\source\repos\Stack and Queues\Exersice 2. Basic Queue Operations\bin\Debug\net5.0\ref\Exersice 2. Basic Queue Operations.dll
+C:\Users\usr\source\repos\Stack and Queues\Exersice 2. Basic Queue Operations\bin\Debug\net5.0\Exersice 2. Basic Queue Operations.pdb
+C:\Users\usr\source\repos\Stack and Queues\Exersice 2. Basic Queue Operations\obj\Debug\net5.0\Exersice 2. Basic Queue Operations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usr\source\repos\Stack and Queues\Exersice 2. Basic Queue Operations\obj\Debug\net5.0\Exersice 2. Basic Queue Operations.AssemblyInfoInputs.cache
+C:\Users\usr\source\repos\Stack and Queues\Exersice 2. Basic Queue Operations\obj\Debug\net5.0\Exersice 2. Basic Queue Operations.AssemblyInfo.cs
+C:\Users\usr\source\repos\Stack and Queues\Exersice 2. Basic Queue Operations\obj\Debug\net5.0\Exersice 2. Basic Queue Operations.csproj.CoreCompileInputs.cache
+C:\Users\usr\source\repos\Stack and Queues\Exersice 2. Basic Queue Operations\obj\Debug\net5.0\Exersice 2. Basic Queue Operations.dll
+C:\Users\usr\source\repos\Stack and Queues\Exersice 2. Basic Queue Operations\obj\Debug\net5.0\ref\Exersice 2. Basic Queue Operations.dll
+C:\Users\usr\source\repos\Stack and Queues\Exersice 2. Basic Queue Operations\obj\Debug\net5.0\Exersice 2. Basic Queue Operations.pdb
+C:\Users\usr\source\repos\Stack and Queues\Exersice 2. Basic Queue Operations\obj\Debug\net5.0\Exersice 2. Basic Queue Operations.genruntimeconfig.cache

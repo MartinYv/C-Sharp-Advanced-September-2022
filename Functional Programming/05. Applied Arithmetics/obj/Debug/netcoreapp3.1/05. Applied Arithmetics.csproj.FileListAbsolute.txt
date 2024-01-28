@@ -1,0 +1,14 @@
+C:\Users\usr\source\repos\Functional Programming\05. Applied Arithmetics\bin\Debug\netcoreapp3.1\05. Applied Arithmetics.exe
+C:\Users\usr\source\repos\Functional Programming\05. Applied Arithmetics\bin\Debug\netcoreapp3.1\05. Applied Arithmetics.deps.json
+C:\Users\usr\source\repos\Functional Programming\05. Applied Arithmetics\bin\Debug\netcoreapp3.1\05. Applied Arithmetics.runtimeconfig.json
+C:\Users\usr\source\repos\Functional Programming\05. Applied Arithmetics\bin\Debug\netcoreapp3.1\05. Applied Arithmetics.runtimeconfig.dev.json
+C:\Users\usr\source\repos\Functional Programming\05. Applied Arithmetics\bin\Debug\netcoreapp3.1\05. Applied Arithmetics.dll
+C:\Users\usr\source\repos\Functional Programming\05. Applied Arithmetics\bin\Debug\netcoreapp3.1\05. Applied Arithmetics.pdb
+C:\Users\usr\source\repos\Functional Programming\05. Applied Arithmetics\obj\Debug\netcoreapp3.1\05. Applied Arithmetics.csproj.AssemblyReference.cache
+C:\Users\usr\source\repos\Functional Programming\05. Applied Arithmetics\obj\Debug\netcoreapp3.1\05. Applied Arithmetics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usr\source\repos\Functional Programming\05. Applied Arithmetics\obj\Debug\netcoreapp3.1\05. Applied Arithmetics.AssemblyInfoInputs.cache
+C:\Users\usr\source\repos\Functional Programming\05. Applied Arithmetics\obj\Debug\netcoreapp3.1\05. Applied Arithmetics.AssemblyInfo.cs
+C:\Users\usr\source\repos\Functional Programming\05. Applied Arithmetics\obj\Debug\netcoreapp3.1\05. Applied Arithmetics.csproj.CoreCompileInputs.cache
+C:\Users\usr\source\repos\Functional Programming\05. Applied Arithmetics\obj\Debug\netcoreapp3.1\05. Applied Arithmetics.dll
+C:\Users\usr\source\repos\Functional Programming\05. Applied Arithmetics\obj\Debug\netcoreapp3.1\05. Applied Arithmetics.pdb
+C:\Users\usr\source\repos\Functional Programming\05. Applied Arithmetics\obj\Debug\netcoreapp3.1\05. Applied Arithmetics.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\usr\source\repos\1. Sum Matrix Elements\2. Sum Matrix Columns\bin\Debug\net5.0\2. Sum Matrix Columns.exe
+C:\Users\usr\source\repos\1. Sum Matrix Elements\2. Sum Matrix Columns\bin\Debug\net5.0\2. Sum Matrix Columns.deps.json
+C:\Users\usr\source\repos\1. Sum Matrix Elements\2. Sum Matrix Columns\bin\Debug\net5.0\2. Sum Matrix Columns.runtimeconfig.json
+C:\Users\usr\source\repos\1. Sum Matrix Elements\2. Sum Matrix Columns\bin\Debug\net5.0\2. Sum Matrix Columns.runtimeconfig.dev.json
+C:\Users\usr\source\repos\1. Sum Matrix Elements\2. Sum Matrix Columns\bin\Debug\net5.0\2. Sum Matrix Columns.dll
+C:\Users\usr\source\repos\1. Sum Matrix Elements\2. Sum Matrix Columns\bin\Debug\net5.0\ref\2. Sum Matrix Columns.dll
+C:\Users\usr\source\repos\1. Sum Matrix Elements\2. Sum Matrix Columns\bin\Debug\net5.0\2. Sum Matrix Columns.pdb
+C:\Users\usr\source\repos\1. Sum Matrix Elements\2. Sum Matrix Columns\obj\Debug\net5.0\2. Sum Matrix Columns.csproj.AssemblyReference.cache
+C:\Users\usr\source\repos\1. Sum Matrix Elements\2. Sum Matrix Columns\obj\Debug\net5.0\2. Sum Matrix Columns.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usr\source\repos\1. Sum Matrix Elements\2. Sum Matrix Columns\obj\Debug\net5.0\2. Sum Matrix Columns.AssemblyInfoInputs.cache
+C:\Users\usr\source\repos\1. Sum Matrix Elements\2. Sum Matrix Columns\obj\Debug\net5.0\2. Sum Matrix Columns.AssemblyInfo.cs
+C:\Users\usr\source\repos\1. Sum Matrix Elements\2. Sum Matrix Columns\obj\Debug\net5.0\2. Sum Matrix Columns.csproj.CoreCompileInputs.cache
+C:\Users\usr\source\repos\1. Sum Matrix Elements\2. Sum Matrix Columns\obj\Debug\net5.0\2. Sum Matrix Columns.dll
+C:\Users\usr\source\repos\1. Sum Matrix Elements\2. Sum Matrix Columns\obj\Debug\net5.0\ref\2. Sum Matrix Columns.dll
+C:\Users\usr\source\repos\1. Sum Matrix Elements\2. Sum Matrix Columns\obj\Debug\net5.0\2. Sum Matrix Columns.pdb
+C:\Users\usr\source\repos\1. Sum Matrix Elements\2. Sum Matrix Columns\obj\Debug\net5.0\2. Sum Matrix Columns.genruntimeconfig.cache

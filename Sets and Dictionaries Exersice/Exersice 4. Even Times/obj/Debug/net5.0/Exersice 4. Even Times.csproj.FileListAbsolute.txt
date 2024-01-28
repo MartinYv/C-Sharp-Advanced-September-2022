@@ -1,0 +1,16 @@
+C:\Users\usr\source\repos\Sets and Dictionaries Advanced\Exersice 4. Even Times\bin\Debug\net5.0\Exersice 4. Even Times.exe
+C:\Users\usr\source\repos\Sets and Dictionaries Advanced\Exersice 4. Even Times\bin\Debug\net5.0\Exersice 4. Even Times.deps.json
+C:\Users\usr\source\repos\Sets and Dictionaries Advanced\Exersice 4. Even Times\bin\Debug\net5.0\Exersice 4. Even Times.runtimeconfig.json
+C:\Users\usr\source\repos\Sets and Dictionaries Advanced\Exersice 4. Even Times\bin\Debug\net5.0\Exersice 4. Even Times.runtimeconfig.dev.json
+C:\Users\usr\source\repos\Sets and Dictionaries Advanced\Exersice 4. Even Times\bin\Debug\net5.0\Exersice 4. Even Times.dll
+C:\Users\usr\source\repos\Sets and Dictionaries Advanced\Exersice 4. Even Times\bin\Debug\net5.0\ref\Exersice 4. Even Times.dll
+C:\Users\usr\source\repos\Sets and Dictionaries Advanced\Exersice 4. Even Times\bin\Debug\net5.0\Exersice 4. Even Times.pdb
+C:\Users\usr\source\repos\Sets and Dictionaries Advanced\Exersice 4. Even Times\obj\Debug\net5.0\Exersice 4. Even Times.csproj.AssemblyReference.cache
+C:\Users\usr\source\repos\Sets and Dictionaries Advanced\Exersice 4. Even Times\obj\Debug\net5.0\Exersice 4. Even Times.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usr\source\repos\Sets and Dictionaries Advanced\Exersice 4. Even Times\obj\Debug\net5.0\Exersice 4. Even Times.AssemblyInfoInputs.cache
+C:\Users\usr\source\repos\Sets and Dictionaries Advanced\Exersice 4. Even Times\obj\Debug\net5.0\Exersice 4. Even Times.AssemblyInfo.cs
+C:\Users\usr\source\repos\Sets and Dictionaries Advanced\Exersice 4. Even Times\obj\Debug\net5.0\Exersice 4. Even Times.csproj.CoreCompileInputs.cache
+C:\Users\usr\source\repos\Sets and Dictionaries Advanced\Exersice 4. Even Times\obj\Debug\net5.0\Exersice 4. Even Times.dll
+C:\Users\usr\source\repos\Sets and Dictionaries Advanced\Exersice 4. Even Times\obj\Debug\net5.0\ref\Exersice 4. Even Times.dll
+C:\Users\usr\source\repos\Sets and Dictionaries Advanced\Exersice 4. Even Times\obj\Debug\net5.0\Exersice 4. Even Times.pdb
+C:\Users\usr\source\repos\Sets and Dictionaries Advanced\Exersice 4. Even Times\obj\Debug\net5.0\Exersice 4. Even Times.genruntimeconfig.cache

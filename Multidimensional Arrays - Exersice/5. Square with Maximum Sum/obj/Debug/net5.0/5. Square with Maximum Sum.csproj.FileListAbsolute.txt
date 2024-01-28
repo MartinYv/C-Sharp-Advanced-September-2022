@@ -1,0 +1,16 @@
+C:\Users\usr\source\repos\Multidimentional Arrays 2\Multidimentional Arrays 2\bin\Debug\net5.0\5. Square with Maximum Sum.exe
+C:\Users\usr\source\repos\Multidimentional Arrays 2\Multidimentional Arrays 2\bin\Debug\net5.0\5. Square with Maximum Sum.deps.json
+C:\Users\usr\source\repos\Multidimentional Arrays 2\Multidimentional Arrays 2\bin\Debug\net5.0\5. Square with Maximum Sum.runtimeconfig.json
+C:\Users\usr\source\repos\Multidimentional Arrays 2\Multidimentional Arrays 2\bin\Debug\net5.0\5. Square with Maximum Sum.runtimeconfig.dev.json
+C:\Users\usr\source\repos\Multidimentional Arrays 2\Multidimentional Arrays 2\bin\Debug\net5.0\5. Square with Maximum Sum.dll
+C:\Users\usr\source\repos\Multidimentional Arrays 2\Multidimentional Arrays 2\bin\Debug\net5.0\ref\5. Square with Maximum Sum.dll
+C:\Users\usr\source\repos\Multidimentional Arrays 2\Multidimentional Arrays 2\bin\Debug\net5.0\5. Square with Maximum Sum.pdb
+C:\Users\usr\source\repos\Multidimentional Arrays 2\Multidimentional Arrays 2\obj\Debug\net5.0\5. Square with Maximum Sum.csproj.AssemblyReference.cache
+C:\Users\usr\source\repos\Multidimentional Arrays 2\Multidimentional Arrays 2\obj\Debug\net5.0\5. Square with Maximum Sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usr\source\repos\Multidimentional Arrays 2\Multidimentional Arrays 2\obj\Debug\net5.0\5. Square with Maximum Sum.AssemblyInfoInputs.cache
+C:\Users\usr\source\repos\Multidimentional Arrays 2\Multidimentional Arrays 2\obj\Debug\net5.0\5. Square with Maximum Sum.AssemblyInfo.cs
+C:\Users\usr\source\repos\Multidimentional Arrays 2\Multidimentional Arrays 2\obj\Debug\net5.0\5. Square with Maximum Sum.csproj.CoreCompileInputs.cache
+C:\Users\usr\source\repos\Multidimentional Arrays 2\Multidimentional Arrays 2\obj\Debug\net5.0\5. Square with Maximum Sum.dll
+C:\Users\usr\source\repos\Multidimentional Arrays 2\Multidimentional Arrays 2\obj\Debug\net5.0\ref\5. Square with Maximum Sum.dll
+C:\Users\usr\source\repos\Multidimentional Arrays 2\Multidimentional Arrays 2\obj\Debug\net5.0\5. Square with Maximum Sum.pdb
+C:\Users\usr\source\repos\Multidimentional Arrays 2\Multidimentional Arrays 2\obj\Debug\net5.0\5. Square with Maximum Sum.genruntimeconfig.cache

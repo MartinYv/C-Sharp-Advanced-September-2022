@@ -1,0 +1,14 @@
+C:\Users\usr\source\repos\ExamPreparation\02. Beaver at Work\bin\Debug\netcoreapp3.1\02. Beaver at Work.exe
+C:\Users\usr\source\repos\ExamPreparation\02. Beaver at Work\bin\Debug\netcoreapp3.1\02. Beaver at Work.deps.json
+C:\Users\usr\source\repos\ExamPreparation\02. Beaver at Work\bin\Debug\netcoreapp3.1\02. Beaver at Work.runtimeconfig.json
+C:\Users\usr\source\repos\ExamPreparation\02. Beaver at Work\bin\Debug\netcoreapp3.1\02. Beaver at Work.runtimeconfig.dev.json
+C:\Users\usr\source\repos\ExamPreparation\02. Beaver at Work\bin\Debug\netcoreapp3.1\02. Beaver at Work.dll
+C:\Users\usr\source\repos\ExamPreparation\02. Beaver at Work\bin\Debug\netcoreapp3.1\02. Beaver at Work.pdb
+C:\Users\usr\source\repos\ExamPreparation\02. Beaver at Work\obj\Debug\netcoreapp3.1\02. Beaver at Work.csproj.AssemblyReference.cache
+C:\Users\usr\source\repos\ExamPreparation\02. Beaver at Work\obj\Debug\netcoreapp3.1\02. Beaver at Work.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usr\source\repos\ExamPreparation\02. Beaver at Work\obj\Debug\netcoreapp3.1\02. Beaver at Work.AssemblyInfoInputs.cache
+C:\Users\usr\source\repos\ExamPreparation\02. Beaver at Work\obj\Debug\netcoreapp3.1\02. Beaver at Work.AssemblyInfo.cs
+C:\Users\usr\source\repos\ExamPreparation\02. Beaver at Work\obj\Debug\netcoreapp3.1\02. Beaver at Work.csproj.CoreCompileInputs.cache
+C:\Users\usr\source\repos\ExamPreparation\02. Beaver at Work\obj\Debug\netcoreapp3.1\02. Beaver at Work.dll
+C:\Users\usr\source\repos\ExamPreparation\02. Beaver at Work\obj\Debug\netcoreapp3.1\02. Beaver at Work.pdb
+C:\Users\usr\source\repos\ExamPreparation\02. Beaver at Work\obj\Debug\netcoreapp3.1\02. Beaver at Work.genruntimeconfig.cache

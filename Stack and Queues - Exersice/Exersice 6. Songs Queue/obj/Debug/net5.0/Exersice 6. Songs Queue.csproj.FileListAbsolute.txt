@@ -1,0 +1,15 @@
+C:\Users\usr\source\repos\Stack and Queues\Exersice 6. Songs Queue\bin\Debug\net5.0\Exersice 6. Songs Queue.exe
+C:\Users\usr\source\repos\Stack and Queues\Exersice 6. Songs Queue\bin\Debug\net5.0\Exersice 6. Songs Queue.deps.json
+C:\Users\usr\source\repos\Stack and Queues\Exersice 6. Songs Queue\bin\Debug\net5.0\Exersice 6. Songs Queue.runtimeconfig.json
+C:\Users\usr\source\repos\Stack and Queues\Exersice 6. Songs Queue\bin\Debug\net5.0\Exersice 6. Songs Queue.runtimeconfig.dev.json
+C:\Users\usr\source\repos\Stack and Queues\Exersice 6. Songs Queue\bin\Debug\net5.0\Exersice 6. Songs Queue.dll
+C:\Users\usr\source\repos\Stack and Queues\Exersice 6. Songs Queue\bin\Debug\net5.0\ref\Exersice 6. Songs Queue.dll
+C:\Users\usr\source\repos\Stack and Queues\Exersice 6. Songs Queue\bin\Debug\net5.0\Exersice 6. Songs Queue.pdb
+C:\Users\usr\source\repos\Stack and Queues\Exersice 6. Songs Queue\obj\Debug\net5.0\Exersice 6. Songs Queue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usr\source\repos\Stack and Queues\Exersice 6. Songs Queue\obj\Debug\net5.0\Exersice 6. Songs Queue.AssemblyInfoInputs.cache
+C:\Users\usr\source\repos\Stack and Queues\Exersice 6. Songs Queue\obj\Debug\net5.0\Exersice 6. Songs Queue.AssemblyInfo.cs
+C:\Users\usr\source\repos\Stack and Queues\Exersice 6. Songs Queue\obj\Debug\net5.0\Exersice 6. Songs Queue.csproj.CoreCompileInputs.cache
+C:\Users\usr\source\repos\Stack and Queues\Exersice 6. Songs Queue\obj\Debug\net5.0\Exersice 6. Songs Queue.dll
+C:\Users\usr\source\repos\Stack and Queues\Exersice 6. Songs Queue\obj\Debug\net5.0\ref\Exersice 6. Songs Queue.dll
+C:\Users\usr\source\repos\Stack and Queues\Exersice 6. Songs Queue\obj\Debug\net5.0\Exersice 6. Songs Queue.pdb
+C:\Users\usr\source\repos\Stack and Queues\Exersice 6. Songs Queue\obj\Debug\net5.0\Exersice 6. Songs Queue.genruntimeconfig.cache

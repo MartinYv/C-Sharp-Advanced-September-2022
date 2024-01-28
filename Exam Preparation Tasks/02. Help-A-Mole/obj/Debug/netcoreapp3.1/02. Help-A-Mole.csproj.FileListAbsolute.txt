@@ -1,0 +1,14 @@
+C:\Users\usr\source\repos\01. Barista Contest\02. Help-A-Mole\bin\Debug\netcoreapp3.1\02. Help-A-Mole.exe
+C:\Users\usr\source\repos\01. Barista Contest\02. Help-A-Mole\bin\Debug\netcoreapp3.1\02. Help-A-Mole.deps.json
+C:\Users\usr\source\repos\01. Barista Contest\02. Help-A-Mole\bin\Debug\netcoreapp3.1\02. Help-A-Mole.runtimeconfig.json
+C:\Users\usr\source\repos\01. Barista Contest\02. Help-A-Mole\bin\Debug\netcoreapp3.1\02. Help-A-Mole.runtimeconfig.dev.json
+C:\Users\usr\source\repos\01. Barista Contest\02. Help-A-Mole\bin\Debug\netcoreapp3.1\02. Help-A-Mole.dll
+C:\Users\usr\source\repos\01. Barista Contest\02. Help-A-Mole\bin\Debug\netcoreapp3.1\02. Help-A-Mole.pdb
+C:\Users\usr\source\repos\01. Barista Contest\02. Help-A-Mole\obj\Debug\netcoreapp3.1\02. Help-A-Mole.csproj.AssemblyReference.cache
+C:\Users\usr\source\repos\01. Barista Contest\02. Help-A-Mole\obj\Debug\netcoreapp3.1\02. Help-A-Mole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usr\source\repos\01. Barista Contest\02. Help-A-Mole\obj\Debug\netcoreapp3.1\02. Help-A-Mole.AssemblyInfoInputs.cache
+C:\Users\usr\source\repos\01. Barista Contest\02. Help-A-Mole\obj\Debug\netcoreapp3.1\02. Help-A-Mole.AssemblyInfo.cs
+C:\Users\usr\source\repos\01. Barista Contest\02. Help-A-Mole\obj\Debug\netcoreapp3.1\02. Help-A-Mole.csproj.CoreCompileInputs.cache
+C:\Users\usr\source\repos\01. Barista Contest\02. Help-A-Mole\obj\Debug\netcoreapp3.1\02. Help-A-Mole.dll
+C:\Users\usr\source\repos\01. Barista Contest\02. Help-A-Mole\obj\Debug\netcoreapp3.1\02. Help-A-Mole.pdb
+C:\Users\usr\source\repos\01. Barista Contest\02. Help-A-Mole\obj\Debug\netcoreapp3.1\02. Help-A-Mole.genruntimeconfig.cache

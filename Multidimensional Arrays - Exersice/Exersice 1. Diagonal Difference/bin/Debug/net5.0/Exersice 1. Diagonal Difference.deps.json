@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Exersice 1. Diagonal Difference/1.0.0": {
+        "runtime": {
+          "Exersice 1. Diagonal Difference.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Exersice 1. Diagonal Difference/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

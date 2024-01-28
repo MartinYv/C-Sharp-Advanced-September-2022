@@ -1,0 +1,16 @@
+C:\Users\usr\source\repos\1. Sum Matrix Elements\3. Primary Diagonal\bin\Debug\net5.0\3. Primary Diagonal.exe
+C:\Users\usr\source\repos\1. Sum Matrix Elements\3. Primary Diagonal\bin\Debug\net5.0\3. Primary Diagonal.deps.json
+C:\Users\usr\source\repos\1. Sum Matrix Elements\3. Primary Diagonal\bin\Debug\net5.0\3. Primary Diagonal.runtimeconfig.json
+C:\Users\usr\source\repos\1. Sum Matrix Elements\3. Primary Diagonal\bin\Debug\net5.0\3. Primary Diagonal.runtimeconfig.dev.json
+C:\Users\usr\source\repos\1. Sum Matrix Elements\3. Primary Diagonal\bin\Debug\net5.0\3. Primary Diagonal.dll
+C:\Users\usr\source\repos\1. Sum Matrix Elements\3. Primary Diagonal\bin\Debug\net5.0\ref\3. Primary Diagonal.dll
+C:\Users\usr\source\repos\1. Sum Matrix Elements\3. Primary Diagonal\bin\Debug\net5.0\3. Primary Diagonal.pdb
+C:\Users\usr\source\repos\1. Sum Matrix Elements\3. Primary Diagonal\obj\Debug\net5.0\3. Primary Diagonal.csproj.AssemblyReference.cache
+C:\Users\usr\source\repos\1. Sum Matrix Elements\3. Primary Diagonal\obj\Debug\net5.0\3. Primary Diagonal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usr\source\repos\1. Sum Matrix Elements\3. Primary Diagonal\obj\Debug\net5.0\3. Primary Diagonal.AssemblyInfoInputs.cache
+C:\Users\usr\source\repos\1. Sum Matrix Elements\3. Primary Diagonal\obj\Debug\net5.0\3. Primary Diagonal.AssemblyInfo.cs
+C:\Users\usr\source\repos\1. Sum Matrix Elements\3. Primary Diagonal\obj\Debug\net5.0\3. Primary Diagonal.csproj.CoreCompileInputs.cache
+C:\Users\usr\source\repos\1. Sum Matrix Elements\3. Primary Diagonal\obj\Debug\net5.0\3. Primary Diagonal.dll
+C:\Users\usr\source\repos\1. Sum Matrix Elements\3. Primary Diagonal\obj\Debug\net5.0\ref\3. Primary Diagonal.dll
+C:\Users\usr\source\repos\1. Sum Matrix Elements\3. Primary Diagonal\obj\Debug\net5.0\3. Primary Diagonal.pdb
+C:\Users\usr\source\repos\1. Sum Matrix Elements\3. Primary Diagonal\obj\Debug\net5.0\3. Primary Diagonal.genruntimeconfig.cache

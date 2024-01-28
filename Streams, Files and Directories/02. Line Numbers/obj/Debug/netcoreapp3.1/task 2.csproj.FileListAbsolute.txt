@@ -1,0 +1,13 @@
+C:\Users\usr\source\repos\Streams, Files and Directories\task 2\bin\Debug\netcoreapp3.1\task 2.exe
+C:\Users\usr\source\repos\Streams, Files and Directories\task 2\bin\Debug\netcoreapp3.1\task 2.deps.json
+C:\Users\usr\source\repos\Streams, Files and Directories\task 2\bin\Debug\netcoreapp3.1\task 2.runtimeconfig.json
+C:\Users\usr\source\repos\Streams, Files and Directories\task 2\bin\Debug\netcoreapp3.1\task 2.runtimeconfig.dev.json
+C:\Users\usr\source\repos\Streams, Files and Directories\task 2\bin\Debug\netcoreapp3.1\task 2.dll
+C:\Users\usr\source\repos\Streams, Files and Directories\task 2\bin\Debug\netcoreapp3.1\task 2.pdb
+C:\Users\usr\source\repos\Streams, Files and Directories\task 2\obj\Debug\netcoreapp3.1\task 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usr\source\repos\Streams, Files and Directories\task 2\obj\Debug\netcoreapp3.1\task 2.AssemblyInfoInputs.cache
+C:\Users\usr\source\repos\Streams, Files and Directories\task 2\obj\Debug\netcoreapp3.1\task 2.AssemblyInfo.cs
+C:\Users\usr\source\repos\Streams, Files and Directories\task 2\obj\Debug\netcoreapp3.1\task 2.csproj.CoreCompileInputs.cache
+C:\Users\usr\source\repos\Streams, Files and Directories\task 2\obj\Debug\netcoreapp3.1\task 2.dll
+C:\Users\usr\source\repos\Streams, Files and Directories\task 2\obj\Debug\netcoreapp3.1\task 2.pdb
+C:\Users\usr\source\repos\Streams, Files and Directories\task 2\obj\Debug\netcoreapp3.1\task 2.genruntimeconfig.cache

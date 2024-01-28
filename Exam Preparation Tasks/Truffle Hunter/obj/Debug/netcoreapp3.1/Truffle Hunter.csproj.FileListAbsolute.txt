@@ -1,0 +1,14 @@
+C:\Users\usr\source\repos\ExamPreparation\Truffle Hunter\bin\Debug\netcoreapp3.1\Truffle Hunter.exe
+C:\Users\usr\source\repos\ExamPreparation\Truffle Hunter\bin\Debug\netcoreapp3.1\Truffle Hunter.deps.json
+C:\Users\usr\source\repos\ExamPreparation\Truffle Hunter\bin\Debug\netcoreapp3.1\Truffle Hunter.runtimeconfig.json
+C:\Users\usr\source\repos\ExamPreparation\Truffle Hunter\bin\Debug\netcoreapp3.1\Truffle Hunter.runtimeconfig.dev.json
+C:\Users\usr\source\repos\ExamPreparation\Truffle Hunter\bin\Debug\netcoreapp3.1\Truffle Hunter.dll
+C:\Users\usr\source\repos\ExamPreparation\Truffle Hunter\bin\Debug\netcoreapp3.1\Truffle Hunter.pdb
+C:\Users\usr\source\repos\ExamPreparation\Truffle Hunter\obj\Debug\netcoreapp3.1\Truffle Hunter.csproj.AssemblyReference.cache
+C:\Users\usr\source\repos\ExamPreparation\Truffle Hunter\obj\Debug\netcoreapp3.1\Truffle Hunter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usr\source\repos\ExamPreparation\Truffle Hunter\obj\Debug\netcoreapp3.1\Truffle Hunter.AssemblyInfoInputs.cache
+C:\Users\usr\source\repos\ExamPreparation\Truffle Hunter\obj\Debug\netcoreapp3.1\Truffle Hunter.AssemblyInfo.cs
+C:\Users\usr\source\repos\ExamPreparation\Truffle Hunter\obj\Debug\netcoreapp3.1\Truffle Hunter.csproj.CoreCompileInputs.cache
+C:\Users\usr\source\repos\ExamPreparation\Truffle Hunter\obj\Debug\netcoreapp3.1\Truffle Hunter.dll
+C:\Users\usr\source\repos\ExamPreparation\Truffle Hunter\obj\Debug\netcoreapp3.1\Truffle Hunter.pdb
+C:\Users\usr\source\repos\ExamPreparation\Truffle Hunter\obj\Debug\netcoreapp3.1\Truffle Hunter.genruntimeconfig.cache

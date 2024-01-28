@@ -1,0 +1,14 @@
+C:\Users\usr\source\repos\Functional Programming\03. Custom Min Function\bin\Debug\netcoreapp3.1\03. Custom Min Function.exe
+C:\Users\usr\source\repos\Functional Programming\03. Custom Min Function\bin\Debug\netcoreapp3.1\03. Custom Min Function.deps.json
+C:\Users\usr\source\repos\Functional Programming\03. Custom Min Function\bin\Debug\netcoreapp3.1\03. Custom Min Function.runtimeconfig.json
+C:\Users\usr\source\repos\Functional Programming\03. Custom Min Function\bin\Debug\netcoreapp3.1\03. Custom Min Function.runtimeconfig.dev.json
+C:\Users\usr\source\repos\Functional Programming\03. Custom Min Function\bin\Debug\netcoreapp3.1\03. Custom Min Function.dll
+C:\Users\usr\source\repos\Functional Programming\03. Custom Min Function\bin\Debug\netcoreapp3.1\03. Custom Min Function.pdb
+C:\Users\usr\source\repos\Functional Programming\03. Custom Min Function\obj\Debug\netcoreapp3.1\03. Custom Min Function.csproj.AssemblyReference.cache
+C:\Users\usr\source\repos\Functional Programming\03. Custom Min Function\obj\Debug\netcoreapp3.1\03. Custom Min Function.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usr\source\repos\Functional Programming\03. Custom Min Function\obj\Debug\netcoreapp3.1\03. Custom Min Function.AssemblyInfoInputs.cache
+C:\Users\usr\source\repos\Functional Programming\03. Custom Min Function\obj\Debug\netcoreapp3.1\03. Custom Min Function.AssemblyInfo.cs
+C:\Users\usr\source\repos\Functional Programming\03. Custom Min Function\obj\Debug\netcoreapp3.1\03. Custom Min Function.csproj.CoreCompileInputs.cache
+C:\Users\usr\source\repos\Functional Programming\03. Custom Min Function\obj\Debug\netcoreapp3.1\03. Custom Min Function.dll
+C:\Users\usr\source\repos\Functional Programming\03. Custom Min Function\obj\Debug\netcoreapp3.1\03. Custom Min Function.pdb
+C:\Users\usr\source\repos\Functional Programming\03. Custom Min Function\obj\Debug\netcoreapp3.1\03. Custom Min Function.genruntimeconfig.cache

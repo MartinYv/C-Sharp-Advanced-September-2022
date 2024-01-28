@@ -1,0 +1,14 @@
+C:\Users\usr\source\repos\Generics\BoxOfInt\bin\Debug\netcoreapp3.1\BoxOfInt.exe
+C:\Users\usr\source\repos\Generics\BoxOfInt\bin\Debug\netcoreapp3.1\BoxOfInt.deps.json
+C:\Users\usr\source\repos\Generics\BoxOfInt\bin\Debug\netcoreapp3.1\BoxOfInt.runtimeconfig.json
+C:\Users\usr\source\repos\Generics\BoxOfInt\bin\Debug\netcoreapp3.1\BoxOfInt.runtimeconfig.dev.json
+C:\Users\usr\source\repos\Generics\BoxOfInt\bin\Debug\netcoreapp3.1\BoxOfInt.dll
+C:\Users\usr\source\repos\Generics\BoxOfInt\bin\Debug\netcoreapp3.1\BoxOfInt.pdb
+C:\Users\usr\source\repos\Generics\BoxOfInt\obj\Debug\netcoreapp3.1\BoxOfInt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usr\source\repos\Generics\BoxOfInt\obj\Debug\netcoreapp3.1\BoxOfInt.AssemblyInfoInputs.cache
+C:\Users\usr\source\repos\Generics\BoxOfInt\obj\Debug\netcoreapp3.1\BoxOfInt.AssemblyInfo.cs
+C:\Users\usr\source\repos\Generics\BoxOfInt\obj\Debug\netcoreapp3.1\BoxOfInt.csproj.CoreCompileInputs.cache
+C:\Users\usr\source\repos\Generics\BoxOfInt\obj\Debug\netcoreapp3.1\BoxOfInt.dll
+C:\Users\usr\source\repos\Generics\BoxOfInt\obj\Debug\netcoreapp3.1\BoxOfInt.pdb
+C:\Users\usr\source\repos\Generics\BoxOfInt\obj\Debug\netcoreapp3.1\BoxOfInt.genruntimeconfig.cache
+C:\Users\usr\source\repos\Generics\BoxOfInt\obj\Debug\netcoreapp3.1\BoxOfInt.csproj.AssemblyReference.cache

@@ -1,0 +1,16 @@
+C:\Users\usr\source\repos\Stack and Queues\Exersice 7. Truck Tour\bin\Debug\net5.0\Exersice 7. Truck Tour.exe
+C:\Users\usr\source\repos\Stack and Queues\Exersice 7. Truck Tour\bin\Debug\net5.0\Exersice 7. Truck Tour.deps.json
+C:\Users\usr\source\repos\Stack and Queues\Exersice 7. Truck Tour\bin\Debug\net5.0\Exersice 7. Truck Tour.runtimeconfig.json
+C:\Users\usr\source\repos\Stack and Queues\Exersice 7. Truck Tour\bin\Debug\net5.0\Exersice 7. Truck Tour.runtimeconfig.dev.json
+C:\Users\usr\source\repos\Stack and Queues\Exersice 7. Truck Tour\bin\Debug\net5.0\Exersice 7. Truck Tour.dll
+C:\Users\usr\source\repos\Stack and Queues\Exersice 7. Truck Tour\bin\Debug\net5.0\ref\Exersice 7. Truck Tour.dll
+C:\Users\usr\source\repos\Stack and Queues\Exersice 7. Truck Tour\bin\Debug\net5.0\Exersice 7. Truck Tour.pdb
+C:\Users\usr\source\repos\Stack and Queues\Exersice 7. Truck Tour\obj\Debug\net5.0\Exersice 7. Truck Tour.csproj.AssemblyReference.cache
+C:\Users\usr\source\repos\Stack and Queues\Exersice 7. Truck Tour\obj\Debug\net5.0\Exersice 7. Truck Tour.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usr\source\repos\Stack and Queues\Exersice 7. Truck Tour\obj\Debug\net5.0\Exersice 7. Truck Tour.AssemblyInfoInputs.cache
+C:\Users\usr\source\repos\Stack and Queues\Exersice 7. Truck Tour\obj\Debug\net5.0\Exersice 7. Truck Tour.AssemblyInfo.cs
+C:\Users\usr\source\repos\Stack and Queues\Exersice 7. Truck Tour\obj\Debug\net5.0\Exersice 7. Truck Tour.csproj.CoreCompileInputs.cache
+C:\Users\usr\source\repos\Stack and Queues\Exersice 7. Truck Tour\obj\Debug\net5.0\Exersice 7. Truck Tour.dll
+C:\Users\usr\source\repos\Stack and Queues\Exersice 7. Truck Tour\obj\Debug\net5.0\ref\Exersice 7. Truck Tour.dll
+C:\Users\usr\source\repos\Stack and Queues\Exersice 7. Truck Tour\obj\Debug\net5.0\Exersice 7. Truck Tour.pdb
+C:\Users\usr\source\repos\Stack and Queues\Exersice 7. Truck Tour\obj\Debug\net5.0\Exersice 7. Truck Tour.genruntimeconfig.cache

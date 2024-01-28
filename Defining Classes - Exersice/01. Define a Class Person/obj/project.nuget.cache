@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "AGzUjlDqVs72XfSSir4AvLOS7EZ7Gx0yDVqPDBD9A7QgGl0cFez4lN6vE5ASyGcxX+6vrHZ1f6IKV/p3OaaTRw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\usr\\source\\repos\\DefiningClasses\\Define a Class Person\\DefiningClasses.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\usr\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\usr\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\usr\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
+    "C:\\Users\\usr\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}

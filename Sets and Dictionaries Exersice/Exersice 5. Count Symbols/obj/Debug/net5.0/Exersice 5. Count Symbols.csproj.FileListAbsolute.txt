@@ -1,0 +1,16 @@
+C:\Users\usr\source\repos\Sets and Dictionaries Advanced\Exersice 5. Count Symbols\bin\Debug\net5.0\Exersice 5. Count Symbols.exe
+C:\Users\usr\source\repos\Sets and Dictionaries Advanced\Exersice 5. Count Symbols\bin\Debug\net5.0\Exersice 5. Count Symbols.deps.json
+C:\Users\usr\source\repos\Sets and Dictionaries Advanced\Exersice 5. Count Symbols\bin\Debug\net5.0\Exersice 5. Count Symbols.runtimeconfig.json
+C:\Users\usr\source\repos\Sets and Dictionaries Advanced\Exersice 5. Count Symbols\bin\Debug\net5.0\Exersice 5. Count Symbols.runtimeconfig.dev.json
+C:\Users\usr\source\repos\Sets and Dictionaries Advanced\Exersice 5. Count Symbols\bin\Debug\net5.0\Exersice 5. Count Symbols.dll
+C:\Users\usr\source\repos\Sets and Dictionaries Advanced\Exersice 5. Count Symbols\bin\Debug\net5.0\ref\Exersice 5. Count Symbols.dll
+C:\Users\usr\source\repos\Sets and Dictionaries Advanced\Exersice 5. Count Symbols\bin\Debug\net5.0\Exersice 5. Count Symbols.pdb
+C:\Users\usr\source\repos\Sets and Dictionaries Advanced\Exersice 5. Count Symbols\obj\Debug\net5.0\Exersice 5. Count Symbols.csproj.AssemblyReference.cache
+C:\Users\usr\source\repos\Sets and Dictionaries Advanced\Exersice 5. Count Symbols\obj\Debug\net5.0\Exersice 5. Count Symbols.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usr\source\repos\Sets and Dictionaries Advanced\Exersice 5. Count Symbols\obj\Debug\net5.0\Exersice 5. Count Symbols.AssemblyInfoInputs.cache
+C:\Users\usr\source\repos\Sets and Dictionaries Advanced\Exersice 5. Count Symbols\obj\Debug\net5.0\Exersice 5. Count Symbols.AssemblyInfo.cs
+C:\Users\usr\source\repos\Sets and Dictionaries Advanced\Exersice 5. Count Symbols\obj\Debug\net5.0\Exersice 5. Count Symbols.csproj.CoreCompileInputs.cache
+C:\Users\usr\source\repos\Sets and Dictionaries Advanced\Exersice 5. Count Symbols\obj\Debug\net5.0\Exersice 5. Count Symbols.dll
+C:\Users\usr\source\repos\Sets and Dictionaries Advanced\Exersice 5. Count Symbols\obj\Debug\net5.0\ref\Exersice 5. Count Symbols.dll
+C:\Users\usr\source\repos\Sets and Dictionaries Advanced\Exersice 5. Count Symbols\obj\Debug\net5.0\Exersice 5. Count Symbols.pdb
+C:\Users\usr\source\repos\Sets and Dictionaries Advanced\Exersice 5. Count Symbols\obj\Debug\net5.0\Exersice 5. Count Symbols.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\usr\source\repos\Multidimentional Arrays 2\Exersice 3. Maximal Sum\bin\Debug\net5.0\Exersice 3. Maximal Sum.exe
+C:\Users\usr\source\repos\Multidimentional Arrays 2\Exersice 3. Maximal Sum\bin\Debug\net5.0\Exersice 3. Maximal Sum.deps.json
+C:\Users\usr\source\repos\Multidimentional Arrays 2\Exersice 3. Maximal Sum\bin\Debug\net5.0\Exersice 3. Maximal Sum.runtimeconfig.json
+C:\Users\usr\source\repos\Multidimentional Arrays 2\Exersice 3. Maximal Sum\bin\Debug\net5.0\Exersice 3. Maximal Sum.runtimeconfig.dev.json
+C:\Users\usr\source\repos\Multidimentional Arrays 2\Exersice 3. Maximal Sum\bin\Debug\net5.0\Exersice 3. Maximal Sum.dll
+C:\Users\usr\source\repos\Multidimentional Arrays 2\Exersice 3. Maximal Sum\bin\Debug\net5.0\ref\Exersice 3. Maximal Sum.dll
+C:\Users\usr\source\repos\Multidimentional Arrays 2\Exersice 3. Maximal Sum\bin\Debug\net5.0\Exersice 3. Maximal Sum.pdb
+C:\Users\usr\source\repos\Multidimentional Arrays 2\Exersice 3. Maximal Sum\obj\Debug\net5.0\Exersice 3. Maximal Sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usr\source\repos\Multidimentional Arrays 2\Exersice 3. Maximal Sum\obj\Debug\net5.0\Exersice 3. Maximal Sum.AssemblyInfoInputs.cache
+C:\Users\usr\source\repos\Multidimentional Arrays 2\Exersice 3. Maximal Sum\obj\Debug\net5.0\Exersice 3. Maximal Sum.AssemblyInfo.cs
+C:\Users\usr\source\repos\Multidimentional Arrays 2\Exersice 3. Maximal Sum\obj\Debug\net5.0\Exersice 3. Maximal Sum.csproj.CoreCompileInputs.cache
+C:\Users\usr\source\repos\Multidimentional Arrays 2\Exersice 3. Maximal Sum\obj\Debug\net5.0\Exersice 3. Maximal Sum.dll
+C:\Users\usr\source\repos\Multidimentional Arrays 2\Exersice 3. Maximal Sum\obj\Debug\net5.0\ref\Exersice 3. Maximal Sum.dll
+C:\Users\usr\source\repos\Multidimentional Arrays 2\Exersice 3. Maximal Sum\obj\Debug\net5.0\Exersice 3. Maximal Sum.pdb
+C:\Users\usr\source\repos\Multidimentional Arrays 2\Exersice 3. Maximal Sum\obj\Debug\net5.0\Exersice 3. Maximal Sum.genruntimeconfig.cache
+C:\Users\usr\source\repos\Multidimentional Arrays 2\Exersice 3. Maximal Sum\obj\Debug\net5.0\Exersice 3. Maximal Sum.csproj.AssemblyReference.cache

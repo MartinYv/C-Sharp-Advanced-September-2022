@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Exersice 06. Wardrobe/1.0.0": {
+        "runtime": {
+          "Exersice 06. Wardrobe.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Exersice 06. Wardrobe/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

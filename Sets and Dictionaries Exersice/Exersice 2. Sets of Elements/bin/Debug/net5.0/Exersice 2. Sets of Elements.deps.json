@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Exersice 2. Sets of Elements/1.0.0": {
+        "runtime": {
+          "Exersice 2. Sets of Elements.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Exersice 2. Sets of Elements/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

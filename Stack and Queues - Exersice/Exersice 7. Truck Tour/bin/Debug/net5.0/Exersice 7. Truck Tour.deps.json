@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Exersice 7. Truck Tour/1.0.0": {
+        "runtime": {
+          "Exersice 7. Truck Tour.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Exersice 7. Truck Tour/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
